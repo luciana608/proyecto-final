@@ -1,0 +1,31 @@
+body {
+    background-color: maroon;
+}
+
+header {
+    background-color: darkblue;
+    color: orangered;
+}
+
+h1 {
+    font-family: 'Teko', sans-serif;
+    font-weight: 400;
+    font-size: 26px;
+    text-align: center;
+}
+
+main {
+    font-family: 'Bebas Neue';
+    font-weight: 400;
+    font-size: 17px;
+    text-align: center;
+    color: aqua;
+}
+
+footer {
+    font-family: 'Teko', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    background-color: indigo;
+    color: white;
+}
